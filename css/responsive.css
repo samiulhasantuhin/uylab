@@ -1,0 +1,313 @@
+/* X-Small devices (portrait phones, less than 576px) */
+@media (min-width: 320px) and (max-width: 575px){
+    .navbar{
+        position: relative;
+    }
+
+    .header_button a {
+        position: static;
+    }
+    .nav-link {
+        text-align: center;
+        margin: 8px 0;
+    }
+    .dropdown-item {
+        text-align: center;
+        margin: 8px 0;
+    }
+    .header_button{
+        text-align: center;
+        justify-content: center;
+    }
+    .header_button button {
+        position: static;
+    }
+    .navbar-brand img{
+        width: 100px;
+    }
+    .main_search a {
+        left: 7.5%;
+    }
+    .main_search input {
+        margin-left: 0px;
+        width: 100%;
+    }
+    .banner_content{
+        text-align: center;
+    }
+    .banner_content h2 {
+        font-size: 30px;
+    }
+    .banner_content h5 {
+        font-size: 30px;
+    }
+    .banner_content p {
+        padding: 25px 10%;
+    }
+    #banner .circle {
+        left: 44.5%;
+        top: 22.5%;
+    }
+    .banner_button img{
+        margin-top: 25px;
+    }
+    #proud .proud_warp {
+        margin-bottom: 45px;
+    }
+    .video_content {
+        margin-top: 50px;
+        margin-left: 0;
+        text-align: center;
+    }
+    .video_content h1 {
+        font-size: 26px;
+        margin-bottom: 19px;
+    }
+    #video {
+        padding: 0px 0;
+        padding-bottom: 20px;
+    }
+    .other_main_img_1 {
+        text-align: center;
+    }
+    .other_main_img_1 h3 {
+        text-align: center;
+        margin-right: 0;
+    }
+    .other_main_img_3{
+        text-align: center;
+    }
+    .other_main_img_3 h3 {
+        margin-left: 0px;
+    }
+    .common_part h2 {
+        font-size: 28px;
+    }
+    .common_part h2 span{
+        font-size: 28px;
+    }
+    #rating {
+        padding: 0px;
+    }
+    .main_rating {
+        border-right:none;
+        padding: 30px 0;
+    }
+    .rating_content {
+        margin-left: 12px;
+    }
+    .main_logo_img {
+        margin-bottom: 20px;
+    }
+    .subcription_bg {
+        display: none;
+    }
+    .wrapper_subcription {
+        padding: 20px ;
+    }
+    .subcription_text{
+        text-align: center;
+    }
+    .subcription_text h2 {
+        font-size: 35px;
+    }
+    .subcription_input a {
+        padding: 14px 19px;
+    }
+    .subcription_input a {
+        font-size: 18px;
+    }
+    .footer_logo{
+        text-align: center;
+    }
+    .footer_logo p {
+        margin: 0px 0px 0px 0px;
+    }
+    .footer_menu{
+        text-align: center;
+    }
+    .footer_menu h4 {
+        margin-top: 20px;
+    }
+    .footer_menu ul {
+        margin: 20px 0px 0px 0px;
+    }
+    .footer_icon{
+        text-align: center;
+    }
+    .footer_icon h4 {
+        margin: 0px 0px 20px 0px;
+        margin-top: 20px;
+    }
+    .footer_icon ul {
+        text-align: center;
+        justify-content: center;
+    }
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) { 
+    .navbar{
+        position: relative;
+    }
+
+    .header_button a {
+        position: static;
+    }
+    .nav-link {
+        text-align: center;
+        margin: 8px 0;
+    }
+    .dropdown-item {
+        text-align: center;
+        margin: 8px 0;
+    }
+    .header_button{
+        text-align: center;
+        justify-content: center;
+    }
+    .header_button button {
+        position: static;
+    }
+    .main_search a {
+        left: 4.5%;
+    }
+    .main_search input {
+        margin-left: 0px;
+        width: 100%;
+    }
+    .banner_content{
+        text-align: center;
+    }
+    .banner_content h2 {
+        font-size: 30px;
+    }
+    .banner_content h5 {
+        font-size: 30px;
+    }
+    .banner_content p {
+        padding: 25px 10%;
+    }
+    #banner .circle {
+        left: 44.5%;
+        top: 22.5%;
+    }
+    .banner_button img{
+        margin-top: 25px;
+    }
+    #proud .proud_warp {
+        margin-bottom: 45px;
+    }
+    .other_main_img_1 {
+        text-align: center;
+    }
+    .other_main_img_1 h3 {
+        text-align: center;
+        margin-right: 0;
+    }
+    .other_main_img_3{
+        text-align: center;
+    }
+    .other_main_img_3 h3 {
+        margin-left: 0px;
+    }
+    #rating {
+        padding: 0px;
+    }
+    .main_rating {
+        padding: 30px 0px;
+        border-right: none;
+    }
+    .main_logo_img {
+        margin-bottom: 20px;
+    }
+    .subcription_text{
+        text-align: center;
+    }
+    .footer_logo p {
+        margin: 48px 50px 0px 0px;
+    }
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px){ 
+    .navbar{
+        position: relative;
+    }
+
+    .header_button a {
+        position: static;
+    }
+    .nav-link {
+        text-align: center;
+        margin: 8px 0;
+    }
+    .dropdown-item {
+        text-align: center;
+        margin: 8px 0;
+    }
+    .header_button{
+        text-align: center;
+        justify-content: center;
+    }
+    .header_button button {
+        position: static;
+    }
+    .main_search a {
+        left: 7.5%;
+    }
+    .main_search input {
+        margin-left: 0px;
+        width: 100%;
+    }
+    .banner_content h5 {
+        font-size: 30px;
+    }
+    .banner_content h2 {
+        font-size: 30px;
+        padding-top: 5px;
+    }
+    .banner_content p {
+        padding: 0px 0;
+    }
+    .banner_button img {
+        display: none;
+    }
+    #proud .proud_warp {
+        margin-bottom: 45px;
+    }
+    .main_rating {
+        border-right:none;
+    }
+    .subcription_text{
+        text-align: center;
+    }
+    .main_logo_img {
+        margin-bottom: 20px;
+    }
+    
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    #proud .proud_warp {
+        margin-bottom: 45px;
+    }
+    .video_content {
+        margin-top: 70px;
+        margin-left: 70px;
+    }
+    .subcription_text h2 {
+        font-size: 35px;
+    }
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+}
